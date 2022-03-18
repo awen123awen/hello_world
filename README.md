@@ -7,3 +7,4 @@ Second , I don't know what it means that "using different Markdown elements".
 I even don't why me must use it.
 Now I commit this changes to record my first explore in Git Hub.
 It is really intresting for a freshmen of computer.
+WTF , I just lost my Internet connection .
